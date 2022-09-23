@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on deep learning, protein structure, data science and other stuff!
+- 🔭 I’m currently working on deep learning, protein structure, data science and more!
 <!--
 **hemahecodes/hemahecodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

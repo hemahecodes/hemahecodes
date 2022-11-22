@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on deep learning, protein structure, data science and more!
+- Take a look at my [Gists](https://gist.github.com/hemahecodes) for some Python utilities 😄
 <!--
 **hemahecodes/hemahecodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working on deep learning, protein structure, data science and more!
 - Take a look at my [Gists](https://gist.github.com/hemahecodes) for some Cheminformatics utilities 😄
-
 Check out my LeetCode stats! 🙌🏼
 
 
